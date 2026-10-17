@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>- UofAZ Remote Careers</title>
+    <description>Automated Python RSS feed tracking jobs .</description>
+    <link>https://arizona.csod.com/ux/ats/careersite/4/home?c=arizona&amp;cfdd[0][id]=228&amp;cfdd[0][options][0]=288&amp;sq=remote&amp;date=WithinThreeDays&amp;lq=Remote%20Lake%20Forest%20Road,%20McGregor,%20MN,%20USA</link>
+    <lastBuildDate>Sat, 17 Oct 2026 16:46:40 GMT</lastBuildDate>
+    <item>
+      <title>Associate/Full Professor (Tenure)</title>
+      <link>/ux/ats/careersite/4/home/requisition/27272?c=arizona</link>
+      <description>Tucson, AZ, United States</description>
+      <guid isPermaLink="false">/ux/ats/careersite/4/home/requisition/27272?c=arizona</guid>
+      <pubDate>Sat, 17 Oct 2026 16:46:40 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
