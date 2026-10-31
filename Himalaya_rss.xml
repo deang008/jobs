@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+ <channel>
+  <title>Himalaya Remote Careers</title>
+  <description>Automated Python RSS feed tracking jobs.</description>
+  <link>https://himalayas.app</link>
+  <lastBuildDate>Sat, 31 Oct 2026 18:29:34 GMT</lastBuildDate>
+  <item>
+   <title>We're here for every step of your search</title>
+   <link>https://himalayas.app/jobs/matches</link>
+   <description>We match your profile against 100,000+ live remote jobs, surfacing the roles that fit your skills and preferences as they go live. | Top matches for you
+L
+Senior Frontend Engineer
+Linear
+98% match
+V
+Full Stack Engineer
+Vercel
+95% match
+S
+Product Engineer
+Stripe
+91% match | Top matches for you | L
+Senior Frontend Engineer
+Linear
+98% match
+V
+Full Stack Engineer
+Vercel
+95% match
+S
+Product Engineer
+Stripe
+91% match</description>
+   <guid isPermaLink="false">https://himalayas.app/jobs/matches</guid>
+   <pubDate>Sat, 31 Oct 2026 18:29:34 GMT</pubDate>
+  </item>
+ </channel>
+</rss>
